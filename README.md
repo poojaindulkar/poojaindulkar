@@ -16,8 +16,7 @@
 
 💬 Ask me about **Node.js, React, Threejs... or anything [here](https://github.com/poojaindulkar/poojaindulkar/issues)**
 
-⚡ Fun fact **Naruto is a reincarnation of Ashura, who is half Otsutsuki. <br/>
-                   However, Naruto is not a blood member of the Otsutsuki clan.**
+
 
  </div>
  
