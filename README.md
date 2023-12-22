@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pooja+Indulkar!;" />
 </h1>
 
-<h3 align="center">Passionate Software Developer from India 🇮🇳 exhibiting expertise in Data Structures and Algorithms.</h3>
+<h3 align="center">Passionate Software Developer from India 🇮🇳.</h3>
 
 <br/>
 
@@ -14,8 +14,9 @@
  
  🌱 I’m currently learning **Redux**
 
-💬 Ask me about **Node.js, React, Threejs... or anything [here](https://github.com/poojaindulkar/poojaindulkar/issues)**
+ 💬 Ask me about **Node.js, React, Threejs... or anything [here](https://github.com/poojaindulkar/poojaindulkar/issues)**
 
+ 🚀 Exhibiting expertise in Data Structures and Algorithms.
 
 
  </div>
